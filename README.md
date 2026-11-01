@@ -4,7 +4,7 @@ A modern, responsive business blog website focused on e-commerce, online busines
 
 ## Live Website
 
-[View The Commerce Edit](YOUR-LIVE-WEBSITE-URL)
+[View The Commerce Edit]( https://kainat23fa.github.io/the-commerce-edit/)
 
 ## About The Project
 
@@ -97,7 +97,7 @@ The-Commerce-Edit/
 1. Clone this repository:
 
    ```bash
-   git clone YOUR-GITHUB-REPOSITORY-URL
+   git clone https://github.com/Kainat23FA/the-commerce-edit.git
    ```
 
 2. Open the project folder in VS Code.
